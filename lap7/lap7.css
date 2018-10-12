@@ -23,10 +23,11 @@ nav #logo img{
 	width: 80px;
 	height: auto;
 	float: left;
-	padding-top:7px; 
+	padding:7px; 
 }
 nav #logo h2{
-	line-height: 50px;
+	padding-top: 13px;
+	
 }
 nav #menu{
 	position: absolute;	
@@ -53,12 +54,13 @@ li{
 }
 .intro div{
 	position: absolute;
-	right: 10%;
+	right: 13%;
 	width: 20%;
 	top: 45%;	
 }
 .intro >p{
-	margin-top: 5px;
+	margin-top: 0px;
+	padding: 20px;
 	font-size: 20px;
 	font-style: italic;
 }
@@ -90,7 +92,6 @@ footer{
 	position: fixed;
 	width: 30px;
 	height: 3px;
-	left: 90%;
-	top: 80%;
-	z-index: 9999;
+	right: 60px;
+	bottom: 90px;
 }
