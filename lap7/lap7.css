@@ -29,9 +29,9 @@ nav #logo h2{
 	padding-top: 13px;
 	
 }
-nav #menu{
+nav menu{
 	position: absolute;	
-	top: 23%;
+	top: 9%;
 	right: 10%;
 }
 ul{
